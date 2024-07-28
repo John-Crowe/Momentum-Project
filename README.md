@@ -7,8 +7,8 @@ The risk free rate is from the French Fama numbers (not CRSP), which I download 
 # Relevant Libraries
 
 * wrds
-* pandas_datareader
+* pandas
 * pandas_datareader
 * datetime
 * numpy
-* matplotlib.pyplot
+
